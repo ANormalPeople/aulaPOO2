@@ -1,0 +1,90 @@
+Nos últimos anos, a tecnologia da informação (TI) tornou-se um
+componente crítico para o sucesso das organizações. A utilização da TI tem
+possibilitado a otimização de processos, o aumento da produtividade e a
+redução de custos. No entanto, o uso inadequado da TI pode acarretar em
+riscos para a segurança das informações, desalinhamento com os objetivos
+estratégicos da organização, falta de conformidade com regulamentações e
+leis, entre outros problemas. Nesse contexto, a governança de tecnologia
+da informação (GTI) surge como uma abordagem para garantir que a TI
+seja utilizada de forma eficiente e eficaz para atingir os objetivos da
+organização. A GTI engloba práticas, processos e estruturas que visam
+garantir a transparência, a prestação de contas e a tomada de decisões
+informadas em relação à utilização dos recursos de TI. Este artigo tem
+como objetivo discutir a importância da GTI nas organizações e apresentar
+suas principais práticas. Além disso, serão apresentados exemplos de
+aplicação prática de GTI em empresas e serão discutidos os desafios e
+oportunidades na implementação da GTI. Acredita-se que este artigo possa
+contribuir para a compreensão da importância da GTI e para a
+disseminação das melhores práticas em GTI nas organizações. A GTI é
+importante porque a TI está presente em quase todas as áreas das
+organizações, desde a gestão de dados até a automação de processos. A
+utilização eficiente da TI pode resultar em um grande impacto positivo no
+desempenho das organizações, enquanto a utilização inadequada da TI
+pode acarretar em grandes prejuízos. Por exemplo, uma empresa que sofreum vazamento de dados pode ter sua reputação prejudicada, perder a
+confiança de seus clientes e acarretar em processos legais. Além disso, a
+utilização da TI de forma desalinhada com os objetivos estratégicos da
+organização pode resultar em desperdício de recursos e perda de
+oportunidades. As práticas de GTI incluem a definição de políticas e
+diretrizes para a utilização da TI, a definição de papéis e responsabilidades
+relacionados à TI, a gestão de riscos relacionados à TI, a gestão de projetos
+de TI, a gestão de fornecedores de TI, entre outras. A adoção de práticas de
+GTI pode garantir que a TI seja utilizada de forma alinhada aos objetivos
+estratégicos da organização, que os riscos relacionados à TI sejam
+gerenciados de forma adequada e que os recursos de TI sejam
+utilizados de forma eficiente. No entanto, a implementação da GTI pode
+ser um desafio para as organizações. A implementação da GTI requer o
+envolvimento de diversas áreas da organização, desde a alta administração
+até os colaboradores operacionais. Além disso, a implementação da GTI
+requer investimentos em recursos, como pessoal especializado em GTI e
+tecnologias de suporte à GTI. Outro desafio na implementação da GTI é
+garantir que as práticas de GTI sejam atualizadas e adaptadas às mudanças
+no ambiente de TI. O artigo tem uma abordagem de caráter conceitual e teórica, usando como
+instrumental de referência uma pesquisa bibliográfica a partir de trabalhos
+desenvolvidos por pesquisadores nacionais e internacionais, órgãos de
+classe e partes interessadas, que têm apresentado contribuições efetivas ao
+estudo da Governança Corporativa e sua importância para a melhoria da
+performance de uma organização. A proposta deste artigo tem por objetivo
+discutir a importância da GTI nas organizações e apresentar suas principais
+práticas. O processo metodológico proposto presente encontra-se
+sistematizado nas seguintes atividades: Explanação do tema, exemplos de
+aplicação prática de GTI e os desafios na implementação da GTI. A seguir
+serão descritas cada fase. explanação do tema(1) Nesta primeira parte será
+exposto ao leitor o tema central do estudo. No exemplos de aplicação
+prática de GTI (2) Na segunda parte será apresentado os exemplos para a
+melhor compreensão da importância da GTI e para a disseminação das
+melhores práticas em GTI nas organizações. Os desafios e oportunidadesna implementação da GTI (3) nesta parte final é apresentado as possíveis
+dificuldades em implementar a governança de tecnologia da informação e
+as oportunidades que possam surgir a empresaa empresa que implementa a
+GTI. 
+Investir em governança corporativa exige trabalho e esforço. Então, por
+que fazer isso? Porque adotar esse conjunto de práticas pode trazer
+diversos benefícios para a sua empresa, como: A melhoria na gestão
+empresarial é visível, pois a governança de TI torna os processos mais
+eficientes e permite tomar decisões melhores, com base no planejamento
+estratégico A empresa é mais valorizada, pois há menos chances de fraudes
+e desvios, preservando a saúde financeira do negócio A imagem do
+negócio também é mais valorizada, pois seus valores são colocados em
+prática Por consequência, seguindo as boas práticas, a empresa se torna
+mais atrativa para potenciais investidores O mesmo acontece com os
+colaboradores, que, mais satisfeitos, serão retidos, reduzindo a rotatividade
+aumento de confiança dos clientes; Entender que possuir essas boas
+práticas pode alavancar, preservar o valor da organização em longo prazo,
+garantindo sua longevidade econômica de forma sustentável. Promover
+uma gestão organizacional de qualidade e que facilite o acesso aos
+recursos e as fontes de financiamento necessários para seu crescimento.
+Melhoria da imagem da empresa e valorização de sua marca. A governança
+de TI deve ser enxergada, também, como uma forma de preparar a empresa
+para agir rápido e se adaptar a novas demandas no futuro. Ela tem que
+funcionar a favor do negócio, para que ele tenha a agilidade necessária e
+conquiste seu espaço perante novas oportunidades sem deixar de fazer o
+monitoramento. Esse equilíbrio entre velocidade e controle é fundamental
+— principalmente com relação à segurança e à qualidade da entrega do
+produto criado. É impossível olhar para tudo isso e não pensar que o
+grande impacto da governança de TI ocorre na competitividade do negócio
+perante seus concorrentes.
+Gestão da Tecnologia da Informação (GTI) é uma área que tem se tornado
+cada vez mais importante para empresas de todos os portes e setores. Com
+a crescente dependência da tecnologia nos negócios, a GTI pode ajudar as
+empresas a gerenciar de forma mais eficiente seus recursos e maximizar
+seus resultados. Neste sentido, a GTI pode ser aplicada em diversas áreas
+dentro de uma organização, tais como
